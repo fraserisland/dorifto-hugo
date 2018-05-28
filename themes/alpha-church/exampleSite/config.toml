@@ -79,9 +79,9 @@ googleAnalytics = ""
 
   [params.map]
     # For Open Street Map widgets
-    latitude = "48.8530"
-    longitude = "2.3498"
-    zoom = "18"
+    latitude = "37.639374"
+    longitude = "140.367836"
+    zoom = "8"
 
   [params.contact]
     #Use this section to automate contact form.
@@ -99,7 +99,7 @@ googleAnalytics = ""
   [params.landing]
 
     [params.landing.banner]
-      image = "img/banner.jpg"
+      image = "churchy/themes/alpha-church/exampleSite/static/img/banner.jpg"
 
       [[params.landing.banner.button]]
         url = "/contact"
