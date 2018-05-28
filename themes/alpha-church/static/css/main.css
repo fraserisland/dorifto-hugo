@@ -2458,6 +2458,7 @@ audio {
 /* Map*/
 #map {
   padding: 12em 3em;
+  background-color: green;
 }
 
 /* Header */
