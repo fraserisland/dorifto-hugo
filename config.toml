@@ -138,6 +138,20 @@ googleAnalytics = ""
         url = "https://www.amazon.com/Doritos/pages/3024658011"
         button_text="Eat Dorito today!"
 
+      [[params.landing.feature_images.tile]]
+        image = "img/freely-26905.jpg"
+        title = "Ways to Eat Doritos?"
+        text = "Ever wondered how to eat them? Find out now!"
+        url = "https://www.amazon.com/Doritos/pages/3024658011"
+        button_text="GO!"
+
+        [[params.landing.feature_images.tile]]
+          image = "img/freely-26905.jpg"
+          title = "How are Doritos made?"
+          text = "Learn how they're made."
+          url = "https://www.amazon.com/Doritos/pages/3024658011"
+          button_text="GO!"
+
     [params.landing.CTA]
       heading = "Get in touch!"
       message = "We'd love to hear from you."
