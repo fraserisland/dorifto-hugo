@@ -2505,7 +2505,7 @@ body.landing #page-wrapper {
 }
 
 #header {
-  background: #444;
+  background: rgb(249, 131, 35);
   color: #bbb;
   cursor: default;
   height: 3.25em;
@@ -2903,7 +2903,7 @@ body.landing #main {
 
 /* CTA */
 #cta {
-  background: #e89980;
+  background-image: url('https://media.glamour.com/photos/5a788e516a41a70bc017a59d/master/w_644,c_limit/GettyImages-91692426.jpg');
   color: #f9e6df;
   padding: 3.5em 0 4em 0;
   text-align: center;
