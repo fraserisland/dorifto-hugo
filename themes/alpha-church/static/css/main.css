@@ -2458,7 +2458,10 @@ audio {
 /* Map*/
 #map {
   padding: 12em 3em;
-  background-color: green;
+  background-image: url(http://speedhunters-wp-production.s3.amazonaws.com/wp-content/uploads/2014/09/20204540/Driftworks-AE86-V8-111.jpg);
+  background-size: cover;
+  background-position: center center;
+  height: 500px;
 }
 
 /* Header */
